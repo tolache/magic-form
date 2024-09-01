@@ -1,0 +1,22 @@
+{
+  "name": "magic-form",
+  "version": "1.0.0",
+  "description": "An assignment from the Frontent course on JetBrains Academy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tolache/magic-form.git"
+  },
+  "author": "Anatoly Cherenkov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tolache/magic-form/issues"
+  },
+  "homepage": "https://github.com/tolache/magic-form#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
